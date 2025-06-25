@@ -8,6 +8,7 @@ class SpringBootContactRestServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
